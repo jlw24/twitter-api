@@ -1,0 +1,5 @@
+
+
+consumer_key, consumer_secret = "BW8eadxLIa5AE7hKyEi49i5Yy", "5VBoE9I1UpVVo96eHT3DuzP9Y4RhO0BVkUe03qjR4HCpUzZkSE"
+bearer = "AAAAAAAAAAAAAAAAAAAAAI8jGwEAAAAAzgVhvs05rmT5ZXZpdtbAjIblqRk%3Di734yKvey2LSlvulJuM70sDFkSVFkiYbK13SfDgYpNVgRbS1wY"
+access_token, access_token_secret = "1276243236906909696-T4bcMZKFWM9xnalAJBSPtzClONNqaN", "uNmF0Volz05as7A7rnHEv74uncrHISkevJOAdqkrTHcgj"
